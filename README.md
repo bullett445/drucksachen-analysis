@@ -15,3 +15,5 @@ The notebook was developed in an anaconda installation in its own environment wi
 The data is provided in sqlite3 database. Find the description of the details in the notebook.
 
 The german stopwords collection was taken from: https://github.com/stopwords-iso/stopwords-de under MIT license.
+
+A blogpost about the findings have been published at https://medium.com/@jan.krueger/is-anyone-interested-8f613dda84f2
